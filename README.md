@@ -1,4 +1,4 @@
 # MernSocial-App
 
 ![](screenshot/userpage.png)
-![](screenshot/homepage.png)
+![](screenshot/home page.png)
